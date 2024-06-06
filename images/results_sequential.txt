@@ -1,0 +1,1 @@
+Tiempo de ejecución secuencial: 115.4215350151062
